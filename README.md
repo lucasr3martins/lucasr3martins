@@ -12,7 +12,6 @@ PT-BR
 
 EN
 - 🌱 Studying to get my associate degree in systems analysis.
-- ☕ Probably on my pc drinking coffee and trying learning something new.
 
   
   <div style="display: inline_block"><br>
